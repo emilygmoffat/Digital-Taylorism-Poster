@@ -1,3 +1,6 @@
+$ pip install grip
+$ cd myproject
+$ grip 
 # Digital-Taylorism-Poster
 ## Reference List
 - Altenried, M. (2020). The platform as factory: Crowdwork and the hidden labour behind artificial intelligence. Capital & Class, 44(2), 145-158. (https://doi.org/10.1177/0309816819899410) 
