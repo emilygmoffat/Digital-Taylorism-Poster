@@ -15,3 +15,5 @@
 - The Manufacturer. (2022, June 9). The innovation behind the fifth industrial revolution. Digital Transformation. (https://www.themanufacturer.com/articles/the-innovation-behind-the-industrial-revolution/) 
 - Wall Street Journal. (2022, September 27). Does 'Bossware' boost worker productivity? It's far from clear [Video]. YouTube. https://www.youtube.com/watch?v=xSMmtacN2p8 
 WEF (World Economic Forum). (2020). The Future of Jobs Report. (https://www3.weforum.org/docs/WEF_Future_of_Jobs_2020.pdf) 
+
+$ pip install grip
