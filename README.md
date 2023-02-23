@@ -20,3 +20,4 @@
 - Wall Street Journal. (2022, September 17). More bosses are spying on quiet quitters. It could backfire. *Tech*. (https://www.wsj.com/articles/more-bosses-are-spying-on-quiet-quitters-it-could-backfire-11663387216?mod=Searchresults_pos1&page=1)
 - Wall Street Journal. (2022, September 27). Does 'Bossware' boost worker productivity? It's far from clear [Video]. YouTube. https://www.youtube.com/watch?v=xSMmtacN2p8 
 - WEF (World Economic Forum). (2020). *The Future of Jobs Report*. (https://www3.weforum.org/docs/WEF_Future_of_Jobs_2020.pdf)
+- Zoho. (2023). Cloud-based clocking system [Infographic]. Zoho People. (https://www.zoho.com/people/clocking-systems.html)
