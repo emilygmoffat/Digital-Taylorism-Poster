@@ -16,6 +16,7 @@
 - Schawbel, D (2020, August 17). How COIVD-19 has accelerated the use of employee monitoring [Blog Post]. *LinkedIn*. (https://www.linkedin.com/pulse/how-covid-19-has-accelerated-use-employee-monitoring-dan-schawbel/) 
 - Spencer, D. A. (2018). Fear and hope in an age of mass automation: Debating the future of work. *New Technology, Work, and Employment, 33*(1), 1-12. (https://doi.org/10.1111/ntwe.12105)
 - The Manufacturer. (2022, June 9). The innovation behind the fifth industrial revolution. *Digital Transformation*. (https://www.themanufacturer.com/articles/the-innovation-behind-the-industrial-revolution/) 
+- Wallace, J. (2020, January 13). The importance of empowering your employees. *Forbes*. (https://www.forbes.com/sites/theyec/2020/01/13/the-importance-of-empowering-your-employees/?sh=cc62c3e37930)
 - Wall Street Journal. (2022, September 17). More bosses are spying on quiet quitters. It could backfire. *Tech*. (https://www.wsj.com/articles/more-bosses-are-spying-on-quiet-quitters-it-could-backfire-11663387216?mod=Searchresults_pos1&page=1)
 - Wall Street Journal. (2022, September 27). Does 'Bossware' boost worker productivity? It's far from clear [Video]. YouTube. https://www.youtube.com/watch?v=xSMmtacN2p8 
 - WEF (World Economic Forum). (2020). *The Future of Jobs Report*. (https://www3.weforum.org/docs/WEF_Future_of_Jobs_2020.pdf)
