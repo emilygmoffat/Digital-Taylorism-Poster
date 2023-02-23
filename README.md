@@ -23,6 +23,7 @@
 - Stellenbosch Business School. (2022, November 17). Quiet quitting: Why are people choosing to 'check out'? [Video]. YouTube. (https://www.youtube.com/watch?v=uk2oRY2N4mU)
 - The Guardian. (2018). Employers are monitoring computers, toilet breaks - even emotions. Is your boss watching you? [Image]. The Guardian. (https://www.theguardian.com/world/2018/may/14/is-your-boss-secretly-or-not-so-secretly-watching-you)
 - The Manufacturer. (2022, June 9). The innovation behind the fifth industrial revolution. *Digital Transformation*. (https://www.themanufacturer.com/articles/the-innovation-behind-the-industrial-revolution/) 
+- Thomsen, M. (2019, October 16). Big Brother is watching: Domino's launches AI-powered camera system that alerts staff if they make substandard pizzas. *Mail Online*. (https://www.dailymail.co.uk/sciencetech/article-7580681/Dominos-launches-new-AI-powered-camera-monitoring-evaluate-pizza-quality.html)
 - Wallace, J. (2020, January 13). The importance of empowering your employees. *Forbes*. (https://www.forbes.com/sites/theyec/2020/01/13/the-importance-of-empowering-your-employees/?sh=cc62c3e37930)
 - Wall Street Journal. (2022, September 17). More bosses are spying on quiet quitters. It could backfire. *Tech*. (https://www.wsj.com/articles/more-bosses-are-spying-on-quiet-quitters-it-could-backfire-11663387216?mod=Searchresults_pos1&page=1)
 - Wall Street Journal. (2022, September 27). Does 'Bossware' boost worker productivity? It's far from clear [Video]. YouTube. https://www.youtube.com/watch?v=xSMmtacN2p8 
