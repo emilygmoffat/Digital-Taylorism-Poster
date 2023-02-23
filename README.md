@@ -13,6 +13,7 @@
 - Kalischko, T., & Riedl, R. (2021). Electronic performance monitoring in the digital workplace: Conceptualisation, review of effects and moderators, and future research opportunities. *Frontiers in Psychology, 12*, 1-15. (https://doi.org/10.3389/fpsyg.2021.633031) 
 - Kudhail, P. (2022, August 31). Quiet quitting: The workplace trend taking over TikTok. *BBC News*. (https://www.bbc.co.uk/news/business-62638908) 
 - McKinsey & Company. (2022, October 26). Quiet quitting and performance management. *People & Organisational Performance*. (https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/quiet-quitting-and-performance-management)
+- Mitchell, A. (2021, December 3). 5 proven strategies for avoiding burnout. *Business Management*. (https://www.insightful.io/blog/5-strategies-avoiding-burnout)
 - Nguyen, A. (2020, Summer). On the clock and at home: Post COVID-19 employee monitoring in the workplace. *People + Strategy Journal*. (https://www.shrm.org/executive/resources/people-strategy-journal/summer2020/pages/feature-nguyen.aspx) 
 - Rajnerowicz, K. (2022, December 19). Will AI take your job? Fear of AI and AI trends for 2023. *TIDIO*. (https://www.tidio.com/blog/ai-trends/)
 - Schawbel, D (2020, August 17). How COIVD-19 has accelerated the use of employee monitoring [Blog Post]. *LinkedIn*. (https://www.linkedin.com/pulse/how-covid-19-has-accelerated-use-employee-monitoring-dan-schawbel/) 
