@@ -21,7 +21,6 @@
 - Saleh, J. (2022, August 29). Does employee monitoring increase productivity?. *Monitask*. (https://www.monitask.com/en/blog/does-employee-monitoring-increase-productivity)
 - Spencer, D. A. (2018). Fear and hope in an age of mass automation: Debating the future of work. *New Technology, Work, and Employment, 33*(1), 1-12. (https://doi.org/10.1111/ntwe.12105)
 - Stellenbosch Business School. (2022, November 17). Quiet quitting: Why are people choosing to 'check out'? [Video]. YouTube. (https://www.youtube.com/watch?v=uk2oRY2N4mU)
-- The Guardian. (2018). Employers are monitoring computers, toilet breaks - even emotions. Is your boss watching you? [Image]. The Guardian. (https://www.theguardian.com/world/2018/may/14/is-your-boss-secretly-or-not-so-secretly-watching-you)
 - The Manufacturer. (2022, June 9). The innovation behind the fifth industrial revolution. *Digital Transformation*. (https://www.themanufacturer.com/articles/the-innovation-behind-the-industrial-revolution/) 
 - Thomsen, M. (2019, October 16). Big Brother is watching: Domino's launches AI-powered camera system that alerts staff if they make substandard pizzas. *Mail Online*. (https://www.dailymail.co.uk/sciencetech/article-7580681/Dominos-launches-new-AI-powered-camera-monitoring-evaluate-pizza-quality.html)
 - Wallace, J. (2020, January 13). The importance of empowering your employees. *Forbes*. (https://www.forbes.com/sites/theyec/2020/01/13/the-importance-of-empowering-your-employees/?sh=cc62c3e37930)
