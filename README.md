@@ -25,6 +25,4 @@
 - Wallace, J. (2020, January 13). The importance of empowering your employees. *Forbes*. (https://www.forbes.com/sites/theyec/2020/01/13/the-importance-of-empowering-your-employees/?sh=cc62c3e37930)
 - Wall Street Journal. (2022, September 17). More bosses are spying on quiet quitters. It could backfire. *Tech*. (https://www.wsj.com/articles/more-bosses-are-spying-on-quiet-quitters-it-could-backfire-11663387216?mod=Searchresults_pos1&page=1)
 - Wall Street Journal. (2022, September 27). Does 'Bossware' boost worker productivity? It's far from clear [Video]. YouTube. https://www.youtube.com/watch?v=xSMmtacN2p8 
-- WEF (World Economic Forum). (2020). *The Future of Jobs Report*. (https://www3.weforum.org/docs/WEF_Future_of_Jobs_2020.pdf)
 - Whyy. (2020). Is your boss spying on you while you work remotely? [Image]. WHYY. (https://whyy.org/segments/is-your-boss-spying-on-you-while-you-work-remotely/0
-- Zoho. (2023). Cloud-based clocking system [Image]. Zoho People. (https://www.zoho.com/people/clocking-systems.html)
