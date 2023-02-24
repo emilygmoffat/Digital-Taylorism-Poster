@@ -5,6 +5,7 @@
 - Baska, M. (2020, November 30). One in seven workers say employer monitoring has increased during covid. *Employment law*. (https://www.peoplemanagement.co.uk/article/1747153/one-in-seven-workers-say-employer-monitoring-has-increased-during-covid)
 - Birnbaum, D., & Somers, M. (2022). Past as prologue: Taylorism, the new scientific management and managing human capital. *International Journal of Organisational Analysis, ahead-of-print*, (https://doi.org/10.1108/IJOA-01-2022-3106) 
 - Cannon, F., & Elford, N. (2017). The agility mindset: How reframing flexible working delivers competitive advantage. Springer International Publishing AG. (https://ebookcentral.proquest.com/lib/hud/detail.action?docID=4790546) 
+- Christian, A. (2022, June 27). The employee surveillance that fuels worker distrust. *BBC News*. (https://www.bbc.com/worklife/article/20220621-the-employee-surveillance-that-fuels-worker-distrust)
 - CIPD. (2020). *Coronavirus and the workforce: ‘workplace’ monitoring and surveillance*. CIPD. (https://www.cipd.co.uk/news-views/changing-work-views/future-work/thought-pieces/coronavirus-workforce-surveillance#gref)
 - Durkheim, E. (1984). From the division of labour in society. In J. Joseph (Ed.), Social theory: A reader (pp. 116-130). Edinburgh University Press. (https://www.jstor.org/stable/10.3366/j.ctvxcrrc0.19) 
 - Eatough, E. (2022, December 18). One in three UK workers are currently quiet quitting. *HR Director*. (https://www.thehrdirector.com/business-news/work_life_balance/one-three-uk-workers-currently-quiet-quitting/#_edn1)
