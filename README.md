@@ -1,5 +1,4 @@
-# Digital-Taylorism-Poster
-## Reference List
+# Digital-Taylorism-Poster Reference List
 - Accenture. (2019). *More Responsible Use of Workforce Data Required to Strengthen Employee Trust and Unlock Growth, According to Accenture Report*. Accenture Newsroom. https://newsroom.accenture.com/news/more-responsible-use-of-workforce-data-required-to-strengthen-employee-trust-and-unlock-growth-according-to-accenture-report.htm0
 - Aloisi, A., & Gramano, E. (2019). Artificial intelligence is watching you at work: Digital surveillance, employee monitoring, and regulatory issues in the EU context. *Comparative Labor Law & Policy Journal , 41*(1), 95-121. https://www.proquest.com/docview/2617203493?pq-origsite=summon
 - Altenried, M. (2020). The platform as factory: Crowdwork and the hidden labour behind artificial intelligence. *Capital & Class, 44*(2), 145-158. https://doi.org/10.1177/0309816819899410
