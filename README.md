@@ -1,5 +1,6 @@
 # Digital-Taylorism-Poster
 ## Reference List
+- Accenture. (2019). *More Responsible Use of Workforce Data Required to Strengthen Employee Trust and Unlock Growth, According to Accenture Report*. Accenture Newsroom. (https://newsroom.accenture.com/news/more-responsible-use-of-workforce-data-required-to-strengthen-employee-trust-and-unlock-growth-according-to-accenture-report.htm0
 - Altenried, M. (2020). The platform as factory: Crowdwork and the hidden labour behind artificial intelligence. *Capital & Class, 44*(2), 145-158. (https://doi.org/10.1177/0309816819899410) 
 - Baska, M. (2020, November 30). One in seven workers say employer monitoring has increased during covid. *Employment law*. (https://www.peoplemanagement.co.uk/article/1747153/one-in-seven-workers-say-employer-monitoring-has-increased-during-covid)
 - Birnbaum, D., & Somers, M. (2022). Past as prologue: Taylorism, the new scientific management and managing human capital. *International Journal of Organisational Analysis, ahead-of-print*, (https://doi.org/10.1108/IJOA-01-2022-3106) 
