@@ -12,7 +12,6 @@
 - Gartner. (2019, May 3). The future of employee monitoring. *Human Resources*. (https://www.gartner.com/smarterwithgartner/the-future-of-employee-monitoring) 
 - Gautie, J., Perez, C., & Jaehrling, K. (2020). Neo-Taylorism in the digital age: Workplace transformations in French and German retail warehouses. *Relations Industrielles, 75*(4), 774-795. (https://doi.org/10.7202/1074564ar) 
 - Jeske, D. (2022). Remote workers’ experiences with electronic monitoring during Covid-19: Implications and recommendations. *International Journal of Workplace Health Management, 15*(3), 393-409. (https://doi.org/10.1108/IJWHM-02-2021-0042) 
-- JP Morgan Chase. (na). Systems Monitoring. (https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/documents/suppliers-documents/systems-monitoring.pdf) 
 - Kalischko, T., & Riedl, R. (2021). Electronic performance monitoring in the digital workplace: Conceptualisation, review of effects and moderators, and future research opportunities. *Frontiers in Psychology, 12*, 1-15. (https://doi.org/10.3389/fpsyg.2021.633031) 
 - Kudhail, P. (2022, August 31). Quiet quitting: The workplace trend taking over TikTok. *BBC News*. (https://www.bbc.co.uk/news/business-62638908) 
 - McKinsey & Company. (2022, October 26). Quiet quitting and performance management. *People & Organisational Performance*. (https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/quiet-quitting-and-performance-management)
