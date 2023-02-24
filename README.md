@@ -19,7 +19,6 @@
 - Nguyen, A. (2020, Summer). On the clock and at home: Post COVID-19 employee monitoring in the workplace. *People + Strategy Journal*. (https://www.shrm.org/executive/resources/people-strategy-journal/summer2020/pages/feature-nguyen.aspx) 
 - Rajnerowicz, K. (2022, December 19). Will AI take your job? Fear of AI and AI trends for 2023. *TIDIO*. (https://www.tidio.com/blog/ai-trends/)
 - Saleh, J. (2022, August 29). Does employee monitoring increase productivity?. *Monitask*. (https://www.monitask.com/en/blog/does-employee-monitoring-increase-productivity)
-- Schawbel, D (2020, August 17). How COIVD-19 has accelerated the use of employee monitoring [Blog Post]. *LinkedIn*. (https://www.linkedin.com/pulse/how-covid-19-has-accelerated-use-employee-monitoring-dan-schawbel/) 
 - Spencer, D. A. (2018). Fear and hope in an age of mass automation: Debating the future of work. *New Technology, Work, and Employment, 33*(1), 1-12. (https://doi.org/10.1111/ntwe.12105)
 - Stellenbosch Business School. (2022, November 17). Quiet quitting: Why are people choosing to 'check out'? [Video]. YouTube. (https://www.youtube.com/watch?v=uk2oRY2N4mU)
 - The Guardian. (2018). Employers are monitoring computers, toilet breaks - even emotions. Is your boss watching you? [Image]. The Guardian. (https://www.theguardian.com/world/2018/may/14/is-your-boss-secretly-or-not-so-secretly-watching-you)
