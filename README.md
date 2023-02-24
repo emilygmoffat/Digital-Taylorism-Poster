@@ -22,6 +22,7 @@
 - Spencer, D. A. (2018). Fear and hope in an age of mass automation: Debating the future of work. *New Technology, Work, and Employment, 33*(1), 1-12. (https://doi.org/10.1111/ntwe.12105)
 - Stellenbosch Business School. (2022, November 17). Quiet quitting: Why are people choosing to 'check out'? [Video]. YouTube. (https://www.youtube.com/watch?v=uk2oRY2N4mU)
 - Thomsen, M. (2019, October 16). Big Brother is watching: Domino's launches AI-powered camera system that alerts staff if they make substandard pizzas. *Mail Online*. (https://www.dailymail.co.uk/sciencetech/article-7580681/Dominos-launches-new-AI-powered-camera-monitoring-evaluate-pizza-quality.html)
+- TUC. (2020). Technology managing people: *The worker experience*. (https://www.tuc.org.uk/sites/default/files/2020-11/Technology_Managing_People_Report_2020_AW_Optimised.pdf)
 - Wallace, J. (2020, January 13). The importance of empowering your employees. *Forbes*. (https://www.forbes.com/sites/theyec/2020/01/13/the-importance-of-empowering-your-employees/?sh=cc62c3e37930)
 - Wall Street Journal. (2022, September 17). More bosses are spying on quiet quitters. It could backfire. *Tech*. (https://www.wsj.com/articles/more-bosses-are-spying-on-quiet-quitters-it-could-backfire-11663387216?mod=Searchresults_pos1&page=1)
 - Wall Street Journal. (2022, September 27). Does 'Bossware' boost worker productivity? It's far from clear [Video]. YouTube. https://www.youtube.com/watch?v=xSMmtacN2p8 
